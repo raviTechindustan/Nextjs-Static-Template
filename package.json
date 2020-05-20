@@ -11,8 +11,8 @@
     "deploy": "npm run build && npm run export"
   },
   "engines": {
-    "node": "12.16.x",
-    "npm": "6.x"
+    "node": "13.11.0",
+    "npm": "6.13.7"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.13.0",
