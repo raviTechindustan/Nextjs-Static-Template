@@ -33,9 +33,9 @@ function Footer() {
                     </Col>
                     <Col md={3} xl={3} sm={4}>
                     <h6>Contact info</h6>
-                    <div><i class="fas fa-map-marker-alt" style={{color:"#5f7ab7"}}></i>{` `}Address #789/3 mohali nepal</div>
-                    <div><i class="fas fa-phone-alt" style={{color:"#5f7ab7"}}></i>{` `}94923892822</div>
-                    <div><i class="fas fa-envelope" style={{color:"#5f7ab7"}}></i>{` `}emailaddress@domain.com</div>
+                    <div><i class="fas fa-map-marker-alt fa-lg" style={{color:"#5f7ab7"}}></i>{` `}Address #789/3 mohali nepal</div>
+                    <div><i class="fas fa-phone-alt fa-lg" style={{color:"#5f7ab7"}}></i>{` `}94923892822</div>
+                    <div><i class="fas fa-envelope fa-lg" style={{color:"#5f7ab7"}}></i>{` `}emailaddress@domain.com</div>
                     <h6>Subscribe</h6>
                     <div className="d-flex">
                         <div>
