@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+
 import { Row, Col, Card, Button, Container} from "react-bootstrap";
 // import shoesimage from '../assets/images/shoes.png'
 // import shirt1 from '../assets/images/shirt1.jpg'
